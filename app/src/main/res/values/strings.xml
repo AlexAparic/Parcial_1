@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conversores</string>
+    <string-array name="spnLongitud" >
+        <item>PieCuadrado</item>
+        <item>VaraCuadrada</item>
+        <item>YardaCuadrada</item>
+        <item>MetroCuadrado</item>
+        <item>Tareas</item>
+        <item>Manzanas</item>
+        <item>Hectarea</item>
+
+    </string-array>
+
+
+</resources>
